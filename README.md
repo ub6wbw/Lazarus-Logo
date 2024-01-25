@@ -8,3 +8,10 @@
 3. Итоговая картинка.
 
 Исх. картинку изучал в редакторе LazPaint (Ubuntu).
+
+# bezier
+# lazarus
+# beziercurve
+# bezier-curve
+# lazaruslogo
+# lazarus-logo
